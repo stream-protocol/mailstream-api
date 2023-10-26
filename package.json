@@ -1,0 +1,24 @@
+{
+    "name": "mailstream-api",
+    "version": "1.0.0",
+    "description": "MailStream SDK and API that integrates with Solana blockchain",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs",
+        "packages": "packages",
+        "client-example": "client",
+        "sdk": "sdk"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Stream Protocol",
+    "license": "ISC",
+    "dependencies": {
+        "@solana/wallet-adapter-react": "^0.15.35",
+        "@solana/wallet-adapter-walletconnect": "^0.1.16",
+        "@solana/web3.js": "^1.87.2",
+        "axios": "^1.5.1"
+    }
+}
