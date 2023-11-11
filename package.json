@@ -19,6 +19,6 @@
         "@solana/wallet-adapter-react": "^0.15.35",
         "@solana/wallet-adapter-walletconnect": "^0.1.16",
         "@solana/web3.js": "^1.87.2",
-        "axios": "^1.5.1"
+        "axios": "^1.6.0"
     }
 }
